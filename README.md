@@ -1,1 +1,2 @@
 # TrenNexus
+Aplikasi  untuk memberikan fasilitas dinas perdagangan Bangkalan  dibagian jual-beli  pakaian yang ada di Bangkalan. Toko pakaian online adalah platform e-commerce yang menawarkan berbagai jenis pakaian melalui internet. Aplikasi ini menyediakan berbagai kategori pakaian seperti pakaian pria, wanita, dan anak-anak. Pelanggan dapat menelusuri katalog produk, melihat deskripsi dan foto, serta membaca ulasan sebelum melakukan pembelian.
