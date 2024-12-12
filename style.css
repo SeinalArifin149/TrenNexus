@@ -1,0 +1,39 @@
+.kategori-baju-pria{
+    background:url(image/bannerpria.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.kategori-baju-wanita{
+    background:url(image/bennerwanita.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.kategori-baju-adat {
+    background:url(image/bennerwanitaadat.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.highlighted-kategori{
+    height: 300px;
+}
+.no-decoration{
+    text-decoration: none;
+    color: white;
+
+}
+
+.no-decoration:hover{
+    color: black;
+}
+
+
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+
+}
+
+.no-decoration:hover{
+    color: black;
+}
